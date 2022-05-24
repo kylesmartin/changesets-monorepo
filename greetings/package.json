@@ -1,0 +1,7 @@
+{
+  "name": "greetings",
+  "version": "1.0.0",
+  "description": "A greetings package written in go",
+  "author": "Kyle Martin <kylesmartin19@gmail.com>",
+  "license": "MIT"
+}

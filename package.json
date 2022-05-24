@@ -1,0 +1,11 @@
+{
+  "name": "changesets-monorepo",
+  "version": "1.0.0",
+  "description": "A multi-language monorepo for testing the changesets versioning tool",
+  "repository": "https://github.com/kylesmartin/changesets-monorepo.git",
+  "author": "Kyle Martin <kylesmartin19@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@changesets/cli": "^2.22.0"
+  }
+}
