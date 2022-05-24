@@ -5,6 +5,12 @@
   "repository": "https://github.com/kylesmartin/changesets-monorepo.git",
   "author": "Kyle Martin <kylesmartin19@gmail.com>",
   "license": "MIT",
+  "workspaces": {
+    "packages": [
+      "greetings",
+      "helloworld-ts"
+    ]
+  },
   "dependencies": {
     "@changesets/cli": "^2.22.0"
   }
