@@ -5,6 +5,7 @@
   "repository": "https://github.com/kylesmartin/changesets-monorepo.git",
   "author": "Kyle Martin <kylesmartin19@gmail.com>",
   "license": "MIT",
+  "private": true,
   "workspaces": {
     "packages": [
       "greetings",
