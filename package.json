@@ -9,7 +9,8 @@
   "workspaces": {
     "packages": [
       "greetings",
-      "helloworld-ts"
+      "helloworld-ts",
+      "introduction-ts"
     ]
   },
   "dependencies": {
