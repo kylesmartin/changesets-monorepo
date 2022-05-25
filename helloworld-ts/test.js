@@ -12,3 +12,9 @@ describe('Testing printBye function, should return "Bye!" ', () => {
         expect(myapp.printBye()).to.equal("Bye!");
 	});
 });
+
+describe('Testing printSky function, should return "Sky!" ', () => {
+	it('Should Return Sky!', () => {
+        expect(myapp.printSky()).to.equal("Sky!");
+	});
+});

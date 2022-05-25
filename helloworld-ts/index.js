@@ -7,3 +7,8 @@ exports.printBye = function() {
     console.log("Bye!");
     return "Bye!";
 }
+
+exports.printSky = function() {
+    console.log("Sky!");
+    return "Sky!";
+}
