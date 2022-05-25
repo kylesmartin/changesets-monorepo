@@ -1,6 +1,6 @@
 exports.printMsg = function() {
-    console.log("Hello World!");
-    return "Hello World!";
+    console.log("Hello There!");
+    return "Hello There!";
 }
 
 exports.printBye = function() {
