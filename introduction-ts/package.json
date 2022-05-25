@@ -1,6 +1,6 @@
 {
   "name": "@changesets-monorepo/introduction-ts",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Package that uses helloworld-ts to make intros",
   "main": "index.js",
   "scripts": {
