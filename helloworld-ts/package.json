@@ -1,5 +1,5 @@
 {
-  "name": "helloworld-ts",
+  "name": "@changesets-monorepo/helloworld-ts",
   "version": "1.0.0",
   "description": "Hello World package",
   "main": "index.js",

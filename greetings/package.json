@@ -1,5 +1,5 @@
 {
-  "name": "greetings",
+  "name": "@changesets-monorepo/greetings",
   "version": "1.1.0",
   "description": "A greetings package written in go",
   "author": "Kyle Martin <kylesmartin19@gmail.com>",
